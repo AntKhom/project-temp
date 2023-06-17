@@ -212,7 +212,7 @@ body {
 
 .swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet,
 .swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
-        margin: 0 var(--swiper-pagination-bullet-horizontal-gap, 6.5px);
+    margin: 0 var(--swiper-pagination-bullet-horizontal-gap, 6.5px);
 }
 
 .swiper-pagination-bullet {
